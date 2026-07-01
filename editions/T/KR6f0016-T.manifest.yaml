@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6f0016/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0016/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說幻士仁賢經
+  identifiers:
+    krp: KR6f0016
+    cbeta: T12n0324
+    cbeta_old_id: T12n0324
+    authorityid: CA0001475
+    json_key: T0324
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0324.xml
+    old_id: T12n0324
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0016_000-T.yaml, hash: 'sha256:587db314a02dabf5129aa2e09d5281ab05838295e9730ca71fe25494151460fb'}
+  - {seq: 1, filename: KR6f0016_001-T.yaml, hash: 'sha256:7bad13de9de903d2cd0afcc0f41a84ad9236e2ee51ce2f2d5eb26cecd221da82'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0016_000-T.markers.yaml, hash: 'sha256:477c22509c4ae011500dfdb4e57dc71a0a94eb5a238e3f845ad7aac6375a1516'}
+  - {seq: 1, role: markers, filename: assets/KR6f0016_001-T.markers.yaml, hash: 'sha256:26c7098d427a8176fb23348c560679b3c780620461d23137ec16213d4783a7f5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0016_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7835
+  label: 佛說幻士仁賢經
+  type: juan
+  level: 1
+hash: sha256:d0ce404fb7ee0c6256d1e854f7b23f97e5dd77e51b9ac6c0131be7820053c6ea

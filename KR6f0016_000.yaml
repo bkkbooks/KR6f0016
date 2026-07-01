@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0016/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說幻士仁賢經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0324.xml
+    old_id: T12n0324
+hash: sha256:587db314a02dabf5129aa2e09d5281ab05838295e9730ca71fe25494151460fb
