@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0016/v1
 canonical_location: https://kanripo.org/bkk/KR6f0016/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說幻士仁賢經
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0016_000.yaml, hash: 'sha256:587db314a02dabf5129aa2e09d5281ab05838295e9730ca71fe25494151460fb'}
-  - {seq: 1, filename: KR6f0016_001.yaml, hash: 'sha256:7bad13de9de903d2cd0afcc0f41a84ad9236e2ee51ce2f2d5eb26cecd221da82'}
+  - {seq: 1, filename: KR6f0016_001.yaml, hash: 'sha256:5448883b5df6698329ae57b28e42c2b72fe8cd7b312d7e65bfff486a2270af57'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6f0016_000.markers.yaml, hash: 'sha256:b380877b5bd47c403abbb9dd86f4e26051f213d750292218efe8d46c8ac3c752'}
-  - {seq: 1, role: markers, filename: assets/KR6f0016_001.markers.yaml, hash: 'sha256:7df27707108efa3516805a606cd5b8be6cb66289bb1a4ae30376618c43ae7683'}
+  - {seq: 1, role: markers, filename: assets/KR6f0016_001.markers.yaml, hash: 'sha256:f4c69ea975b7ba00698a5c8b2614b3943cdf0cd2727c71d995ef9cf282a42ec4'}
 table_of_contents:
 - ref:
     seq: 1
@@ -52,4 +52,7 @@ table_of_contents:
   label: 佛說幻士仁賢經
   type: juan
   level: 1
-hash: sha256:5574b38d1a4c800c560f77e7e271705e077698118fd1ad296294a00d9f95e5e9
+hash: sha256:532530b711c439eee77a11f634171981a0502b3c2169e13ad24068ff55b9fbd6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
